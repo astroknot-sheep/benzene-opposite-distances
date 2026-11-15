@@ -1,0 +1,6 @@
+# CSD structures may not be redistributed (CCDC Access Structures terms): never commit them
+*.cif
+cifs/
+__pycache__/
+.venv/
+*.csv
